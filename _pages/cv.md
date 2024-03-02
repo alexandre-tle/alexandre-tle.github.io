@@ -17,19 +17,56 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since Jan. 2022: PhD Student - Engineer
+  * @ Safran Electrnics & Defense (Massy, France)
+  * CIFRE PhD Thesis in collaboration with Sorbonne Université (UMPC), Institut de Mathématiques de Jussieu (IMJ-PRG) and Inria Paris
+ 
+* Nov. 2021 - Jan. 2022: Control Systems Engineer
+  * @ Safran Electrnics & Defense (Massy, France)
+  * Studies on spherical parallel robots
+ 
+* Apr. 2021 - Oct. 2021: End-of-studies Intern
+  * @ Safran Electrnics & Defense (Massy, France)
+  * Subject: Inertial LOS stabilization using a parallel robot
+  * Bibliographic research, State-of-the-art, Modelling, Implementation and Simulations using MATLAB, Simulink, Python, and Maple
+  * Presentations (oral and written reports) of the obtained results
+ 
+* Sep. 2019 - Jan. 2022: Private Tutor
+  * @ SuperProf (France)
+  * Tutoring & Coaching engineering students (including high school students) in courses related to applied Mathematics or Physics (Signal processing, Control theory, Signals & Systems, Robotics, Linear Algebra)
+  * Preparation of lectures, presentations and exercises
+ 
+* Oct. 2020 - Apr. 2021: Engineering Student
+  * @ Alstom (Saint-Ouen, France)
+  * Part of the end-of-studies project with CentraleSupelec (Control Engineering major)
+  * Prediction of punctuality impact of equipment failures (rolling stock)
+  * Modelling and Implementation of a software tool using Python, MATLAB
+ 
+* Oct. 2020 - Nov. 2020: Private Tutor
+  * @ Wooskill (France)
+ 
+* Jan. 2020 - Mar. 2020: IT Project Manager
+  * @ RATP (Paris, France)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Engineering:
+  * Control theory
+  * Robotics
+  * Signal Processing
+* Programming languages:
+  * C
+  * C++
+  * Python
+  * Java
+  * HTML, CSS
+  * PHP
+  * LaTeX
+  * VBA
+* Software/Tools:
+  * MATLAB, Simulink
+  * Maple
+  * Excel
 
 Publications
 ======
