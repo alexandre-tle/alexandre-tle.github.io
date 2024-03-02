@@ -13,7 +13,7 @@ Education
 ======
 * PhD at Sorbonne Université, Speciality in Mathematics, 2025 (expected)
 * M.Eng. at CentraleSupélec, Université Paris-Saclay (France), Major in Control Engineering, 2021
-* M.Eng. at ESME, Major in Mechatronics, 2021
+* M.Eng. at ESME (France), Major in Mechatronics, 2021
 
 Work experience
 ======
