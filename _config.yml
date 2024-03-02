@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Alexandre Le"
 title_separator          : "-"
 name                     : &name "Alexandre Le"
 description              : &description "personal description"
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Alexandre Le"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "French CIFRE PhD student in Mathematics & Robotics"
+  location         : "France"
+  employer         : "Safran Electronics & Defense"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "alexandre.le@inria.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
