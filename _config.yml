@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alexandre Le"
+title                    : "Alexandre T. Le"
 title_separator          : "-"
 name                     : &name "Alexandre T. Le"
 description              : &description "French CIFRE PhD student in Mathematics & Robotics"
