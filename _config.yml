@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Alexandre Le"
 title_separator          : "-"
 name                     : &name "Alexandre Le"
-description              : &description "personal description"
+description              : &description "French CIFRE PhD student in Mathematics & Robotics"
 url                      : https://italeck.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "italeck/italeck.github.io"
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "italeck"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
