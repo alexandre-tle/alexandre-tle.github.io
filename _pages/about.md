@@ -7,7 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-[academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com)
-
 About me
 ======
