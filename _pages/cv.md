@@ -18,16 +18,16 @@ Education
 Work experience
 ======
 * Since Jan. 2022: PhD Student - Engineer
-  * @ [Safran Electrnics & Defense](https://www.safran-group.com/fr/societes/safran-electronics-defense) (Massy, France)
+  * @ [Safran Electronics & Defense](https://www.safran-group.com/fr/societes/safran-electronics-defense) (Massy, France)
   * CIFRE PhD Thesis in collaboration with Sorbonne Université (UPMC), Institut de Mathématiques de Jussieu (IMJ-PRG) and [Inria](https://www.inria.fr/en/) Paris
   * Design and Command of Parallel Robots for the inertial stabilization of sighting devices
  
 * Nov. 2021 - Jan. 2022: Control Systems Engineer
-  * @ [Safran Electrnics & Defense](https://www.safran-group.com/fr/societes/safran-electronics-defense) (Massy, France)
+  * @ [Safran Electronics & Defense](https://www.safran-group.com/fr/societes/safran-electronics-defense) (Massy, France)
   * Studies on spherical parallel robots
  
 * Apr. 2021 - Oct. 2021: End-of-studies Intern
-  * @ [Safran Electrnics & Defense](https://www.safran-group.com/fr/societes/safran-electronics-defense) (Massy, France)
+  * @ [Safran Electronics & Defense](https://www.safran-group.com/fr/societes/safran-electronics-defense) (Massy, France)
   * Subject: Inertial LOS stabilization using a parallel robot
   * Bibliographic research, State-of-the-art, Modelling, Implementation and Simulations using MATLAB, Simulink, Python, and Maple
   * Presentations (oral and written reports) of the obtained results
