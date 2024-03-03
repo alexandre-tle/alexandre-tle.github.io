@@ -19,7 +19,8 @@ Work experience
 ======
 * Since Jan. 2022: PhD Student - Engineer
   * @ Safran Electrnics & Defense (Massy, France)
-  * CIFRE PhD Thesis in collaboration with Sorbonne Université (UMPC), Institut de Mathématiques de Jussieu (IMJ-PRG) and Inria Paris
+  * CIFRE PhD Thesis in collaboration with Sorbonne Université (UPMC), Institut de Mathématiques de Jussieu (IMJ-PRG) and Inria Paris
+  * Design and Command of Parallel Robots for the inertial stabilization of sighting devices
  
 * Nov. 2021 - Jan. 2022: Control Systems Engineer
   * @ Safran Electrnics & Defense (Massy, France)
