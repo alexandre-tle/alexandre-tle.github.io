@@ -1,10 +1,10 @@
 ---
-title: "Private tutor"
+title: "Misc."
 collection: teaching
-type: "Undergraduate course"
+type: "Private Tutor"
 permalink: /teaching/2014-spring-teaching-1
-venue: ""
-date: 2014-01-01
+venue: "SuperProf"
+date: 2018-09-01
 location: "Paris, France"
 ---
 
