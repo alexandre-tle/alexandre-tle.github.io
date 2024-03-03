@@ -10,7 +10,7 @@ location: "Paris, France"
 
 Description
 ======
-During almost 4 years, I have been working as a private tutor @ SuperProf. My role was to tutoring & coach high school or engineering students in courses related to applied Mathematics or Physics.
+During almost 4 years, I have been working as a private tutor @ SuperProf. My role was to tutor & coach high school or engineering students in courses related to applied Mathematics or Physics.
 
 Courses
 ======
