@@ -38,7 +38,7 @@ Work experience
   * Preparation of lectures, presentations and exercises
  
 * Oct. 2020 - Apr. 2021: Engineering Student
-  * @ Alstom (Saint-Ouen, France)
+  * @ [Alstom](https://www.alstom.com) (Saint-Ouen, France)
   * Part of the end-of-studies project with CentraleSupelec (Control Engineering major)
   * Prediction of punctuality impact of equipment failures (rolling stock)
   * Modelling and Implementation of a software tool using Python, MATLAB
@@ -47,7 +47,7 @@ Work experience
   * @ Wooskill (France)
  
 * Jan. 2020 - Mar. 2020: IT Project Manager
-  * @ RATP (Paris, France)
+  * @ [RATP](https://ratpgroup.com/en/) (Paris, France)
   
 Skills
 ======
