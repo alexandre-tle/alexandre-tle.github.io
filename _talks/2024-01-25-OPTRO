@@ -1,0 +1,11 @@
+---
+title: "[OPTRO 2024] Using a 3-DOF 3-RRR Spherical Parallel Manipulator with Coaxial Input Shafts for the Line-Of-Sight Stabilization"
+collection: talks
+type: "Talk [EN]"
+permalink: 
+venue: "OPTRO 2024 - 11th International Symposium on Optronics in Defence & Security"
+date: 2024-01-25
+location: "Bordeaux, France"
+---
+
+During this event, I was given the opportunity to present and defend my second [article](https://alexandre-tle.github.io/https:/inria.hal.science/hal-04483255v1) whose discussed the idea of using a spherical parallel robot for the purpose of LOS stabilization, given its kinematics.
