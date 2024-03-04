@@ -21,7 +21,7 @@ repository               : "alexandre-tle/alexandre-tle.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lat_red_square.JPG"
+  avatar           : "lat_red_square.jpg"
   name             : "Alexandre T. Le"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "French CIFRE PhD student in Mathematics & Robotics"
