@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alexandre T. Le - Website"
+title: "Alexandre Thanh Le - Website"
 author_profile: true
 redirect_from: 
   - /about/
