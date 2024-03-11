@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Alexandre Le — Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Welcome to my website!
 
 About me
 ======
