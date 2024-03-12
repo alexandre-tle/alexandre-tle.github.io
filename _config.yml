@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "fr-FR"
-title                    : "Alexandre L{ê}"
+title                    : "Alexandre Lê"
 title_separator          : "-"
-name                     : &name "Alexandre L{ê}"
+name                     : &name "Alexandre Lê"
 description              : &description "French CIFRE PhD student in Mathematics & Robotics"
 url                      : https://alexandre-tle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "alexandre-tle/alexandre-tle.github.io"
 author:
   # Biographic information
   avatar           : "lat_red_square.jpg"
-  name             : "Alexandre T. L{ê}"
+  name             : "Alexandre T. Lê"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "French CIFRE PhD student in Mathematics & Robotics"
   location         : "France"
