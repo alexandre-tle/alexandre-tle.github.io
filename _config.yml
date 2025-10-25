@@ -24,11 +24,11 @@ author:
   avatar           : "lat_red_square.jpg"
   name             : "Alexandre T. Lê"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "French CIFRE PhD student in Mathematics & Robotics"
+  bio              : "French Engineer, PhD in Mathematics & Robotics"
   location         : "France"
   employer         : "Safran Electronics & Defense"
   uri              : # URL
-  email            : "alexandre.le@inria.fr" 
+  email            : "alexandre-thanh.le@safrangroup.com" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/0000-0002-5721-1111" # URL - Update with the correct link to your profile
