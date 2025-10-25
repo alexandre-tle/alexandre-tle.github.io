@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD at [Sorbonne Université](https://www.sorbonne-universite.fr/en), Speciality in Mathematics, 2025 (expected)
+* PhD at [Sorbonne Université](https://www.sorbonne-universite.fr/en), Speciality in Mathematics, 2025
 * M.Eng. at [CentraleSupélec](https://www.centralesupelec.fr/en), Université Paris-Saclay (France), Major in Control Engineering, 2021
 * M.Eng. at ESME (France), Major in Mechatronics, 2021
 
